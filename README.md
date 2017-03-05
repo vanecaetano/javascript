@@ -1,4 +1,9 @@
+
 # redux_candidate_chooser
+
+```
+Exercise Done: Implemented Reject Candidate function
+```
 
 this is a simple react/redux app to teach readux.
 
@@ -23,6 +28,5 @@ npm start
 that will start webpack-dev-server on the [localhost:8080](http://localhost:8080)
 
 ```
-Project form Alexandre Polleto - Git alepoletto
+Project from Alexandre Polleto - Git alepoletto
 ```
-Exercise Done: Implemented Reject Candidate function
