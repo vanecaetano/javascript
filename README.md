@@ -1,10 +1,11 @@
 
 # redux_candidate_chooser
 
-
 ```
 Exercise Done: Implemented Reject Candidate function
 ```
+
+
 
 this is a simple react/redux app to teach readux.
 
